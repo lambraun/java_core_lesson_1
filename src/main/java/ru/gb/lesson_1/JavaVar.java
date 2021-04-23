@@ -10,7 +10,7 @@ public class JavaVar {
         val = "Создаем и инициализируем переменные";
 
         byte val_1;
-        val_1 = 10;
+        val_1 = 11;
 
         short val_2;
         val_2 = 15;
